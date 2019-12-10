@@ -28,7 +28,7 @@ Highlights:
 - [ ] Security audit and adjustments
 - [ ] Frontend application complete
 
-## Feb 14 - Mar 1 2020
+## Feb 14 - Mar 1, 2020
 - [ ] QA
 - [ ] Mnemonic support
 
